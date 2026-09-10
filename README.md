@@ -112,7 +112,7 @@ My QA portfolio contains testing case studies, test cases, defect reports, execu
 
 ## 📫 Connect With Me
 
-* [LinkedIn](https://linkedin.com/in/aditi-singh-5029623a)
+* [LinkedIn](https://www.linkedin.com/in/aditi-singh-5029623a2/)
 * [GitHub](https://github.com/Aditi2205-git)
 * [QA Portfolio](https://aditi2205-git.github.io/Aditi-QA-Portfolio/)
 * Email: [singhaditi2254@gmail.com](mailto:singhaditi2254@gmail.com)
